@@ -16,7 +16,7 @@ import vis_utils
 from model import ENet
 from model import PENet_C1_train
 from model import PENet_C2_train
-#from model import PENet_C4_train (Not Implemented)
+#from model import PENet_C4 _train (Not Implemented)
 from model import PENet_C1
 from model import PENet_C2
 from model import PENet_C4
